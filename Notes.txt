@@ -1,0 +1,2 @@
+Use ResNet as pretrained model for the anomaly detection task
+torchvision.models.resnet18()
